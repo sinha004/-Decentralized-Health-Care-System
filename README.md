@@ -126,4 +126,3 @@ Libraries/Frameworks: Web3.js for JavaScript-based ZK authentication
 Cryptographic Techniques: zk-SNARKs (Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge) for secure authentication, Circom
 
 Drive link - https://drive.google.com/drive/folders/1Ra4qzegnK-eqKZGE5FlCshAZzJVfmGa1?usp=share_link
-(It contains demo video drive link)
